@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f93b819f-a244-4684-83b8-9992827a645a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LinqAssignment/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-123">
+              <caret line="10" column="101" selection-start-line="10" selection-start-column="101" selection-end-line="10" selection-end-column="101" />
+              <folding>
+                <marker date="1644181201041" expanded="true" signature="6:66" ph="..." />
+                <marker date="1644181201041" expanded="true" signature="92:4879" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="121:4877" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="174:1042" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="461:518" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="549:606" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="637:694" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="725:782" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="813:870" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="901:958" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="975:1032" ph="{...}" />
+                <marker date="1644181201041" expanded="false" signature="1082:1216" ph="{...}" />
+                <marker date="1644181201041" expanded="false" signature="1256:1563" ph="{...}" />
+                <marker date="1644181201041" expanded="false" signature="1603:2155" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="1673:1934" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="2066:2145" ph="{...}" />
+                <marker date="1644181201041" expanded="false" signature="2195:3047" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="2265:2768" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="2918:3037" ph="{...}" />
+                <marker date="1644181201041" expanded="false" signature="3087:4199" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="3157:3660" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="3781:3900" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="4057:4176" ph="{...}" />
+                <marker date="1644181201041" expanded="false" signature="4238:4681" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="4410:4479" ph="{...}" />
+                <marker date="1644181201041" expanded="true" signature="4589:4658" ph="{...}" />
+                <marker date="1644181201041" expanded="false" signature="4721:4871" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinqAssignment/Student.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+              <folding>
+                <marker date="1644179297253" expanded="true" signature="6:128" ph="..." />
+                <marker date="1644179297253" expanded="true" signature="154:1190" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="183:326" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="251:320" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="354:753" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="405:455" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="500:550" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="595:645" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="693:747" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="779:986" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="1021:1188" ph="{...}" />
+                <marker date="1644179297253" expanded="true" signature="1084:1182" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LinqAssignment/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqAssignment/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LinqAssignment/Student.cs" />
+        <option value="$PROJECT_DIR$/LinqAssignment/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.LinqAssignment/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Static Method.LinqAssignment.Program.Question7">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LinqAssignment/bin/Debug/LinqAssignment.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinqAssignment/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqAssignment/LinqAssignment.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinqAssignment.Program.Question2" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.1.3\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqAssignment/LinqAssignment.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <option name="CLASS_NAME" value="LinqAssignment.Program" />
+      <option name="METHOD_NAME" value="Question2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinqAssignment.Program.Question3" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.1.3\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqAssignment/LinqAssignment.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <option name="CLASS_NAME" value="LinqAssignment.Program" />
+      <option name="METHOD_NAME" value="Question3" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinqAssignment.Program.Question5" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.1.3\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqAssignment/LinqAssignment.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <option name="CLASS_NAME" value="LinqAssignment.Program" />
+      <option name="METHOD_NAME" value="Question5" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinqAssignment.Program.Question6" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.1.3\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqAssignment/LinqAssignment.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <option name="CLASS_NAME" value="LinqAssignment.Program" />
+      <option name="METHOD_NAME" value="Question6" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinqAssignment.Program.Question7" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.1.3\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqAssignment/LinqAssignment.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <option name="CLASS_NAME" value="LinqAssignment.Program" />
+      <option name="METHOD_NAME" value="Question7" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.LinqAssignment.Program.Question7" />
+        <item itemvalue=".NET Static Method.LinqAssignment.Program.Question6" />
+        <item itemvalue=".NET Static Method.LinqAssignment.Program.Question5" />
+        <item itemvalue=".NET Static Method.LinqAssignment.Program.Question3" />
+        <item itemvalue=".NET Static Method.LinqAssignment.Program.Question2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f93b819f-a244-4684-83b8-9992827a645a" name="Default Changelist" comment="" />
+      <created>1644086509556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644086509556</updated>
+      <workItem from="1644086511742" duration="1230000" />
+      <workItem from="1644169954950" duration="6869000" />
+      <workItem from="1644177150219" duration="2401000" />
+      <workItem from="1644181076521" duration="200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10700000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2532124" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.384" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.8064" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532124" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LinqAssignment/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="10" column="101" selection-start-line="10" selection-start-column="101" selection-end-line="10" selection-end-column="101" />
+          <folding>
+            <marker date="1644181201041" expanded="true" signature="6:66" ph="..." />
+            <marker date="1644181201041" expanded="true" signature="92:4879" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="121:4877" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="174:1042" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="461:518" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="549:606" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="637:694" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="725:782" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="813:870" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="901:958" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="975:1032" ph="{...}" />
+            <marker date="1644181201041" expanded="false" signature="1082:1216" ph="{...}" />
+            <marker date="1644181201041" expanded="false" signature="1256:1563" ph="{...}" />
+            <marker date="1644181201041" expanded="false" signature="1603:2155" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="1673:1934" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="2066:2145" ph="{...}" />
+            <marker date="1644181201041" expanded="false" signature="2195:3047" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="2265:2768" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="2918:3037" ph="{...}" />
+            <marker date="1644181201041" expanded="false" signature="3087:4199" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="3157:3660" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="3781:3900" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="4057:4176" ph="{...}" />
+            <marker date="1644181201041" expanded="false" signature="4238:4681" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="4410:4479" ph="{...}" />
+            <marker date="1644181201041" expanded="true" signature="4589:4658" ph="{...}" />
+            <marker date="1644181201041" expanded="false" signature="4721:4871" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinqAssignment/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding>
+            <marker date="1644179297253" expanded="true" signature="6:128" ph="..." />
+            <marker date="1644179297253" expanded="true" signature="154:1190" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="183:326" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="251:320" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="354:753" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="405:455" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="500:550" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="595:645" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="693:747" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="779:986" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="1021:1188" ph="{...}" />
+            <marker date="1644179297253" expanded="true" signature="1084:1182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
